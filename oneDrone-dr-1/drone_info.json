@@ -1,0 +1,9 @@
+{
+  "id": "Dione1",
+  "approval_gcs": "MUV",
+  "host": "gcs.iotocean.org",
+  "drone": "TestDrone1",
+  "gcs": "SJ_Skynet",
+  "type": "ardupilot",
+  "system_id": 250
+}
